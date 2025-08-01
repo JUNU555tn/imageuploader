@@ -52,3 +52,4 @@ requiredVars.forEach(([name, value]) => {
 if (!CHANNEL_USERNAME.startsWith("@")) {
   throw new Error('Invalid CHANNEL_USERNAME: it must start with "@"');
 }
+" "
