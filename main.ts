@@ -20,3 +20,4 @@ serve(async (req) => {
 });
 
 console.log("🚀 Bot server running and ready to receive updates...");  
+// Restart trigger
