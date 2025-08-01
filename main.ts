@@ -19,4 +19,4 @@ serve(async (req) => {
   }
 });
 
-console.log("🚀 Bot server running and ready to receive updates...");
+console.log("🚀 Bot server running and ready to receive updates...");  
