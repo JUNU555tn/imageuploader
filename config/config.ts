@@ -1,5 +1,5 @@
 // ✅ Deployment Webhook URL (for reference)
-export const WEBHOOK_URL = "https://fast-rabbit-22.deno.dev/";
+export const WEBHOOK_URL = "https://fast-rabbit-22.deno.dev";
 
 // ✅ Bot Token
 export const BOT_TOKEN = "7562073845:AAGCAUayfyy0WlW_BkcVEH7kPeSQAvgsitc";
